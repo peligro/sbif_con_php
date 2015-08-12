@@ -31,4 +31,4 @@ class Sbif
         $valor=self::obtiene() * $cantidad;
         return $valor;
     }
-}
+} 
